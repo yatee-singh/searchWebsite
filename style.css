@@ -1,0 +1,40 @@
+
+.main{
+  width: 50vw; 
+  margin: auto;
+ 
+
+}
+
+#myImage{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 200px;
+    /* padding-left: 17vw; */
+    padding-top: 30%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.searchrow{
+    margin-top: 0;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.searchreal{
+    display: flex;
+    flex-direction: row;
+    padding-left: 2vw;
+
+}
+.querybox{
+    background-color: whitesmoke;
+}
+    
+
